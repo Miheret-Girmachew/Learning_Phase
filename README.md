@@ -24,7 +24,7 @@ To-Do List Application
 ## Installation
 
 1. **Clone the repository**:
-2. git clone https://github.com/Miheret-Girmachew/Learning_phase/TO-DO.git
+2. git clone https://github.com/Miheret-Girmachew/Learning_Phase.git
    
 Navigate to the project directory:
 
