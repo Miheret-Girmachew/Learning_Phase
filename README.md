@@ -28,7 +28,7 @@ To-Do List Application
    
 Navigate to the project directory:
 
-cd TO-DO List app
+cd TO-DO
 Usage
 Open index.html in your web browser:
 
