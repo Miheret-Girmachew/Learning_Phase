@@ -32,7 +32,6 @@ cd TO-DO
 Usage
 Open index.html in your web browser:
 
-You can simply double-click the index.html file or open it using your preferred web browser.
 
 ![to-do](https://github.com/user-attachments/assets/9c8f084e-e88f-4536-b2ff-2f36dfb936ea)
 
