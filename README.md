@@ -17,9 +17,6 @@ To-Do List Application
 ├── index.js
 └── README.md
 
-markdown
-Copy code
-
 - **index.html**: Contains the HTML structure of the application.
 - **index.css**: Contains the CSS styles for the application.
 - **index.js**: Contains the JavaScript functionality for adding, editing, and deleting tasks.
@@ -27,39 +24,31 @@ Copy code
 ## Installation
 
 1. **Clone the repository**:
-
-   ```sh
-   git clone https://github.com/Miheret-Girmachew/Learning_phase/TO-DO List app.git
+2. git clone https://github.com/Miheret-Girmachew/Learning_phase/TO-DO List app.git
+   
 Navigate to the project directory:
 
-sh
-Copy code
 cd TO-DO List app
 Usage
 Open index.html in your web browser:
 
 You can simply double-click the index.html file or open it using your preferred web browser.
- ```sh
-     git add images/to-do.jpg README.md
-  ```
+
+![to-do](https://github.com/user-attachments/assets/9c8f084e-e88f-4536-b2ff-2f36dfb936ea)
 
 Add a Task:
 
 Enter your task in the input field.
 Click the "Add Task" button.
 
- ```sh
-     git add images/task-added.jpg README.md
- ```
+![task-added](https://github.com/user-attachments/assets/de8b91c7-cd2a-4a9c-91c3-0a7f54002e50)
 
 Edit a Task:
 
 Click the "Edit" button next to the task you want to edit.
 Modify the task and click outside the input field to save the changes.
 
- ```sh
-     git add images/edit-task.jpg README.md
- ```
+![edit-task](https://github.com/user-attachments/assets/0ce2ed8b-5699-4e94-976e-10815969ef5d)
 
 Delete a Task:
 
