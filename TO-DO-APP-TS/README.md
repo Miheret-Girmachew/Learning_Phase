@@ -30,6 +30,7 @@ Compile the TypeScript file:
 tsc todo.ts
 ```
 Open TO-DO-APP-TS
+
 Open index.html in your web browser.
 
 File Descriptions
