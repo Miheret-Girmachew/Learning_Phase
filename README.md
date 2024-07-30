@@ -28,7 +28,7 @@ To-Do List Application
    
 Navigate to the project directory:
 
-cd TO-DO
+cd Learning_Phase
 Usage
 Open index.html in your web browser:
 
