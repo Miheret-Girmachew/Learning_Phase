@@ -24,12 +24,15 @@ To-Do List Application
 ## Installation
 
 1. **Clone the repository**:
-2. git clone https://github.com/Miheret-Girmachew/Learning_Phase.git
-   
+    ```bash
+     git clone https://github.com/Miheret-Girmachew/Learning_Phase.git
+   ```
 Navigate to the project directory:
-
+ ```bash
 cd Learning_Phase
+```
 Usage
+Open TO-DO List app
 Open index.html in your web browser:
 
 
