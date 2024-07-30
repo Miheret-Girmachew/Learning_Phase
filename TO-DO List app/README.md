@@ -32,6 +32,9 @@ cd Learning_Phase
 ```
 
 Usage
+
+Open TO-DO List app
+
 Open index.html in your web browser:
 
 
