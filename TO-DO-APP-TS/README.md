@@ -19,12 +19,17 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/Miheret-Girmachew/Learning_Phase.git
    cd Learning_Phase
+   ```
 Install TypeScript (if not already installed):
-
+```bash
 npm install -g typescript
+```
 Compile the TypeScript file:
 
-tsc
+```bash
+tsc todo.ts
+```
+Open TO-DO-APP-TS
 Open index.html in your web browser.
 
 File Descriptions
