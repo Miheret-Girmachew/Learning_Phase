@@ -27,8 +27,10 @@ To-Do List Application
 2. git clone https://github.com/Miheret-Girmachew/Learning_Phase.git
    
 Navigate to the project directory:
+```bash
+cd Learning_Phase
+```
 
-cd TO-DO
 Usage
 Open index.html in your web browser:
 
