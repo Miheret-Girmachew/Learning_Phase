@@ -13,18 +13,23 @@ A simple Todo List application built using React, Vite, and TypeScript. This app
 To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**
-   ```sh
-   git clone https://github.com/yourusername/todo-list.git](https://github.com/Miheret-Girmachew/To_Do_React.git)
+   
+   ```bash
+   git clone https://github.com/Miheret-Girmachew/Learning_Phase
    ```
-    ```sh
-   cd todo-list
+   
+    ```bash
+   cd To_do_react_app
      ```
-    ```sh
+    
+    ```bash
     npm install
     ```
+    
    ```sh
     npm run dev
    ```
+   
 This will start the development server and you can view the application by navigating to link you are given in the terminal.
 
 
