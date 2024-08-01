@@ -1,30 +1,69 @@
-# React + TypeScript + Vite
+# Contact Form with React, Vite, and TypeScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple contact form application built with React, Vite, and TypeScript. The app includes a form for users to submit their name, email, and message. Upon submission, users are redirected to a success page.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React Hook Form**: Handles form validation and submission.
+- **Vite**: Provides a fast development experience.
+- **TypeScript**: Adds type safety to the project.
+- **Conditional Rendering**: Displays a success message upon form submission.
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+To get started with this project, follow the instructions below.
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Miheret-Girmachew/Learning_Phase.git
+    ```
+
+2. Navigate into the project directory:
+
+    ```bash
+    cd Contact_Form_React_Hook
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+
+### Development
+
+To start the development server, run:
+
+```bash
+npm run dev
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+This will start the Vite development server and open your app in the browser. 
+
+### Building for Production
+
+To build the project for production, run:
+
+```bash
+npm run build
+```
+
+### Project Structure
+
+- src/components/ContactForm.tsx: Contains the contact form component.
+
+- src/components/SuccessPage.tsx: Contains the success page component.
+
+- src/App.tsx: Main application file with routing.
+
+- index.css: Global styles for the project.
+
+![contact form](https://github.com/user-attachments/assets/859a8a50-d9a8-4d6f-ad9a-b41b990c9ed5)
+![successMessage](https://github.com/user-attachments/assets/168f334f-9445-4909-8cdf-50b9a544de2b)
+
