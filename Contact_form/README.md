@@ -25,7 +25,7 @@ To get started with this project, follow the instructions below.
 2. Navigate into the project directory:
 
     ```bash
-    cd Contact_Form_React_Hook
+    cd Contact_form
     ```
 
 3. Install dependencies:
