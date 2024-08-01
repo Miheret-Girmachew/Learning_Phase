@@ -35,6 +35,19 @@ To get started with this project, follow the instructions below.
     # or
     yarn install
     ```
+    
+4. Install react router dom
+   
+   ```bash
+   npm install react-router-dom
+   ```
+   
+6. Install react hook form
+   
+   ```bash
+   npm install react-hook-form
+
+   ```
 
 ### Development
 
