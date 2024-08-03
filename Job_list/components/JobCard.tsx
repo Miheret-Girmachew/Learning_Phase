@@ -28,7 +28,7 @@ const JobCard: React.FC<JobCardProps> = ({ job }) => {
                 <button className="w-auto rounded-full text-Slate-Blue border border-Slate-Blue h-8 px-4">
                   IT
                 </button>
-              </div>
+      </div>
         
       </div>
     </div>
