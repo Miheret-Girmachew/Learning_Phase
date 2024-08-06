@@ -28,7 +28,7 @@ This is a job listing application built with Next.js 13+, TypeScript, and Tailwi
 ```bash
 git clone https://github.com/Miheret-Girmachew/Learning_Phase.git
 
-cd Job_list_next
+cd job_list_redux
 ```
 
 2. Install dependencies:
