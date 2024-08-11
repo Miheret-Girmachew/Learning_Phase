@@ -53,9 +53,18 @@ Folder Structure
 ├── tsconfig.json
 └── vite.config.ts
 
-![edit-task](https://github.com/user-attachments/assets/bc7eb195-88dd-42e4-97fe-6b9efc2ed314)
-![task-added](https://github.com/user-attachments/assets/21beb9ed-d7ce-4b15-8b4b-aeea2b006827)
-![to-do](https://github.com/user-attachments/assets/96946b46-81f6-48b3-92f4-16d674c64bb7)
+
+
+
+![to-do](https://github.com/user-attachments/assets/9c8f084e-e88f-4536-b2ff-2f36dfb936ea)
+
+
+![task-added](https://github.com/user-attachments/assets/de8b91c7-cd2a-4a9c-91c3-0a7f54002e50)
+
+
+![edit-task](https://github.com/user-attachments/assets/0ce2ed8b-5699-4e94-976e-10815969ef5d)
+
+
 
 
 
